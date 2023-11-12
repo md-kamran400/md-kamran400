@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="coding-gif" />
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://frolicking-medovik-c064d7.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://md-kamran400.github.io/)
 
 - 💬 Ask me about **React JavaScript NodeJS**
 
