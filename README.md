@@ -1,66 +1,91 @@
+<h1 align="center">Hi 👋, I'm Md Kamran</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="coding-gif" />
+- 🌱 I’m currently learning **React**
 
- <p align="center">
- <img alt="coding" width="100%" height="330" src="https://media.licdn.com/dms/image/D4D12AQEv2f5_KSYr5A/article-cover_image-shrink_720_1280/0/1683020912703?e=2147483647&v=beta&t=TNLEYIwy6UN2ZaXMkiPeo5Ig8frpepjVXDgw-NmQyJ8" />
- </p>
-   <h1 align="center">Hi 👋, I'm Md Kamran</h1>
-  <h3 align="center" >A passionate frontend developer from India</h3>
-   
+- 👨‍💻 All of my projects are available at [Portfolio](https://frolicking-medovik-c064d7.netlify.app/)
 
-<p align="center">
-  <img alt="coding" width="500" height="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=synzx22" alt="synzx22" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://frolicking-medovik-c064d7.netlify.app/](https://frolicking-medovik-c064d7.netlify.app/)
+- 💬 Ask me about **React JavaScript NodeJS**
 
 - 📫 How to reach me **ka5452488@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/lenevo/Downloads/Kamran_Resume.pdf](file:///C:/Users/lenevo/Downloads/Kamran_Resume.pdf)
+- 📄 Know about my experiences [Resume](file:///C:/Users/lenevo/Downloads/Kamran_Resume.pdf)
 
+- ⚡ Fun fact **🚀 My coding speed is so fast, I once completed a sprint while my coffee was still brewing! ☕💨💻**
 
-  <h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@synzx22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@synzx22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-kamran-757bb0250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-kamran-757bb0250/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/synzx22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="synzx22" height="30" width="40" /></a>
-<a href="https://fb.com/md kamran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md kamran" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ka5452488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ka5452488" height="30" width="40" /></a>
+<hr/>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/md-kamran-757bb0250/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ttps://linkedin.com/in/md-kamran-757bb0250" height="30" width="40" /></a>
 </p>
+<hr/>
 
+<h3 align="center">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<h4 align="center">Frontend:</h4>
+<p align="center">
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" alt="React" width='90px' height="30px" />
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic" alt="Redux" width='90px' height="30px" />
+  </a>
+  <a href="https://reactrouter.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=plastic" alt="React Router" width='90px' height="30px" />
+  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" alt="HTML" width='90px' height="30px" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic" width='90px' height="30px" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic" alt="JavaScript" width='90px' height="30px" />
+  </a>
+    <a href="https://chakra-ui.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=plastic" alt="Chakra UI" width='90px' height="30px" />
+  </a>
+  <br/>
+<a href="https://axios-http.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Axios-0080FF?logo=axios&logoColor=white&style=plastic" alt="Axios" width='90px' height="30px" />
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" alt="TypeScript" width='90px' height="30px" />
+  </a>
+  <a href="https://styled-components.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=plastic" alt="Styled Components" width='150px' height="30px" />
+  </a>
 </p>
+<h4 align="center">Backend:</h4>
+<p align="center">
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=plastic" alt="Mongoose" width='90px' height="30px" />
+  </a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" alt="MongoDB" width='90px' height="30px" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic" alt="Node.js" width='90px' height="30px" />
+  </a>
+</p>
+<h4 align="center">Tools:</h4>
+<p align="center">
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic" alt="Postman" width='90px' height="30px" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=plastic" alt="VSCode" width='90px' height="30px" />
+  </a>
+  <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=plastic" alt="Netlify" width='90px' height="30px" />
+  </a>
 
+</p>
+<hr/>
+<h3 align="center">My Github Status</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synzx22&show_icons=true&locale=en&layout=compact" alt="synzx22" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=synzx22&show_icons=true&locale=en&layout=compact" alt="synzx22" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=synzx22&show_icons=true&locale=en" alt="synzx22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synzx22&" alt="synzx22" /></p>
