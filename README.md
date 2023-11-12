@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ka5452488@gmail.com**
 
-- 📄 Know about my experiences [Resume](file:///C:/Users/lenevo/Downloads/Kamran_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10KzKVPuKVeoIfunSAxV_hFpYCJppJxgA/view?usp=drive_link)
 
 - ⚡ Fun fact **🚀 My coding speed is so fast, I once completed a sprint while my coffee was still brewing! ☕💨💻**
 
