@@ -17,7 +17,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/md-kamran-757bb0250/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ttps://linkedin.com/in/md-kamran-757bb0250" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-kamran-757bb0250/" target="_blank"><img align="center" src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png" alt="ttps://linkedin.com/in/md-kamran-757bb0250" height="30" width="80" /></a>
 </p>
 <hr/>
 
