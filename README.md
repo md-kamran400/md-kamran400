@@ -84,8 +84,8 @@
 </p>
 <hr/>
 <h3 align="center">My Github Status</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synzx22&show_icons=true&locale=en&layout=compact" alt="synzx22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-kamran400&show_icons=true&locale=en&layout=compact" alt="md-kamran400" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=synzx22&show_icons=true&locale=en" alt="synzx22" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-kamran400&show_icons=true&locale=en" alt="md-kamran400" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synzx22&" alt="synzx22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-kamran400&" alt="md-kamran400" /></p>
