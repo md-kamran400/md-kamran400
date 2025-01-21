@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Kamran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="coding-gif" />
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working as a full stack developer in "RaiseMatters"
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://md-kamran400.github.io/)
 
