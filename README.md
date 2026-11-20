@@ -79,7 +79,8 @@ Hey! I'm **Md Kamran**, a Full Stack Developer building modern, scalable web app
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/md-kamran400/md-kamran400/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+<!-- Animated Contribution Graph (Activity Graph) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-kamran400&bg_color=09090B&color=FF4D5A&line=E63946&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
